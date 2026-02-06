@@ -1,0 +1,17 @@
+DAY 13 NOTES
+
+React = JS library for UI
+Used for modern apps & Web3
+
+Why React:
+- Fast UI updates
+- Component system
+- Used in Solana dApps
+
+Component = reusable UI block
+
+Goal:
+Learn React fast
+Build dashboard
+Connect wallet
+Win bounty
